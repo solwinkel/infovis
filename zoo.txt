@@ -1,1 +1,10 @@
-hola
+This type of graph (sometimes called a stream graph) depicts aggregate patterns and often supports drill-down into a subset of individual series.
+
+A SPLOM enables visual inspection of correlations between any pair of variables.
+
+ Using polar rather than Cartesian coordinates has a pleasing aesthetic, while using space more efficiently.
+
+icicle layout link diagram in that the root node appears at the top, with child nodes underneath
+
+The problem of sorting the nodes in a manner that reveals underlying cluster structure is formally called seriation and has diverse applications in visualization, statistics, and even archaeology.
+
