@@ -1,7 +1,6 @@
 
-1. [Horas frente a la pantalla](info1.csv)
-2. [Uso de aplicaciones en promedio semanal](info2.csv)
-3. [Aplicaciones por categoria](info3.csv)
-4. [Numero de Notificaciones](info4.csv)
-5. Archivo de 
-
+1. [Datos semanales] (datossemanales.csv)
+2. [Datos diarios] (datosdiarios.csv)
+3. [Datos diarios transpuestos] (datosdiariostranspuestos.csv)
+4. [Tiempo total] (tiempototal.csv)
+5. [Consultas y notifiaciones] (consultasnotificaciones.csv)
